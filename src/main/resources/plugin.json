@@ -1,0 +1,7 @@
+{
+  "name": "NoPlayerStop-plugin",
+  "description": "Prevent players from executing the stop command",
+  "version": "0.1.0",
+  "mainClass": "com.github.jie65535.noplayerstop.NoPlayerStopPlugin",
+  "authors": ["jie65535"]
+}
